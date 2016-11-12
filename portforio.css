@@ -1,0 +1,28 @@
+header{
+    background-color:#a00;
+}
+nav{
+    background-color:#aa3;
+
+}
+#logo{
+    text-align:center;
+}
+h1 {
+    text-align:center;
+}
+h2 {
+    text-align:center;
+}
+footer{
+    background-color: #ddd;
+}
+.about{
+    color:#f00;
+}
+ul {
+    color:#f00;
+}
+ul p{
+    text-align: center;
+}
